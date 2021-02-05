@@ -1,0 +1,13 @@
+__pycache__/
+.replit
+__pycache__
+.vscode
+__init__.pyc
+circle.pyc
+rectangle.pyc
+parallelogram.pyc
+square.pyc
+triangle.pyc
+trapezoid.pyc
+docs/shapes
+.DS_Store
